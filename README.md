@@ -1,5 +1,10 @@
 # Face-recognition-based-attendance-system
 
+Pre requisites:
+1. Install visual studio with desktop development with c++
+2. Install cmake (You can install it using requirements document too).
+
+
 This project records the attendance of the student based on face recognition captured using web camera. Face recognition, encoding and matching is done using dlib and opencv.
 
 Face recognition based attendance system.
